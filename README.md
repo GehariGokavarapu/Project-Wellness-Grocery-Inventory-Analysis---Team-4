@@ -36,7 +36,8 @@ Weekly Sync Time: Saturday 11 a.m.
 GitHub Repository Link: https://github.com/GehariGokavarapu/Project-Wellness-Grocery-Inventory-Analysis---Team-4.git 
 3. Workflow Documentation
 KNIME Workflow Overview: A brief description of the final pipeline.
-Key Annotations: 
+Key Annotations:
+
 The top 3 most important Metanodes or Annotations that explain your model's logic: 
 
 
@@ -46,8 +47,8 @@ Any issues or edge cases the model does not handle well:
 
 4. Group Agreement & Attestation
 By signing below, all team members confirm that the work contained within this repository is the result of a collaborative effort and that all individual contributions are fairly represented in the log above.
-Member 1 (Name): Gehari Gokavarapu Date: 3/28/26
-Member 2 (Name): Yashvi Patel Date: 3/28/2026
-Member 3 (Name): Emma Davidson Date: 3/28/26
-Member 4 (Name): Voldie Louza Date: 3/28/26
+Member 1 (Name): Gehari Gokavarapu Date: 4/4/26
+Member 2 (Name): Yashvi Patel Date: 4/4/26
+Member 3 (Name): Emma Davidson Date: 4/4/26
+Member 4 (Name): Voldie Louza Date: 4/4/26
 
